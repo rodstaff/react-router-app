@@ -4,6 +4,7 @@
   "description": "",
   "main": "",
   "scripts": {
+    "wbp": "webpack",
     "go": "webpack-dev-server",
     "dev": "webpack-dev-server --progress --colors --hot --inline"
   },
